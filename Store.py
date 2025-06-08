@@ -12,7 +12,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 BOT_TOKEN = "7722473238:AAGQgesD0-KS7QhjOb3Ra3RfzN2j3rN6xYc"  # 🔁 Replace this
 ADMIN_CHAT_ID = 5549600755
 GOOGLE_SHEET_NAME = "Orders"
-CREDENTIALS_FILE = "Store/helical-crowbar-393009-d57efdd4f343.json"
+CREDENTIALS_FILE = "helical-crowbar-393009-d57efdd4f343.json"
 
 # 🔐 Bakong API
 BAKONG_API_URL = "https://api-open.bakong.nbc.gov.kh/api/v1/khqr/generate"
